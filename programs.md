@@ -9,5 +9,5 @@ parent: Home
 
 Puedes descargar Board Viewer aquí:
 
-- [Archivo ZIP](portafolio/Programas/BoardViewer.zip)
+- [Archivo ZIP](Programas/BoardViewer.zip)
 

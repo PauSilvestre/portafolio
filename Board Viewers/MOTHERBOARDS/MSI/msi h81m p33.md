@@ -2,7 +2,7 @@
 title: msi h81m p33 rev 1.2
 layout: default
 nav_order: 1
-parent: MSI
+parent: MSI_MB_BV
 ---
 
 ## msi h81m p33 rev 1.2

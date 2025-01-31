@@ -1,5 +1,5 @@
 ---
-title: SHAPPHIRE
+title: SHAPPHIRE_GPU_BV
 layout: default
 nav_order: 1
 parent: BV GPUs

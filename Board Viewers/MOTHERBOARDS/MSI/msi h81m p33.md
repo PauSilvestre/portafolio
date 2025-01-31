@@ -8,4 +8,4 @@ parent: MSI_MB_BV
 ## msi h81m p33 rev 1.2
 
 - [(https://github.com/PauSilvestre/portafolio/blob/main/Board%20Viewers/MOTHERBOARDS/MSI/MSI%20MS-7817%20Rev%201.2%20(BDV)(.CAD).zip)
-](https://github.com/PauSilvestre/portafolio/blob/main/Board%20Viewers/MOTHERBOARDS/MSI/MSI%20MS-7817%20Rev%201.2%20(BDV)(.CAD).zip)
+](pollitas)

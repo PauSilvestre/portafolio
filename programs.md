@@ -11,7 +11,7 @@ You can download Board Viewer here:
 
 - [Programas/BoardViewer.zip](https://github.com/PauSilvestre/portafolio/blob/main/Programas/BoardViewer.zip)
 
-- ![imagen](https://github.com/user-attachments/assets/53f6a345-b27b-48dd-a106-83aee18add82)
+![imagen](https://github.com/user-attachments/assets/53f6a345-b27b-48dd-a106-83aee18add82)
 
 # HOW TO USE IT?
 

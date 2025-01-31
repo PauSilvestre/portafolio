@@ -7,4 +7,4 @@ parent: MSI
 
 ## msi h81m p33 rev 1.2
 
-- https://github.com/PauSilvestre/portafolio/blob/main/Board%20Viewers/MOTHERBOARDS/MSI/MSI%20MS-7817%20Rev%201.2%20(BDV)(.CAD).cad
+- ![Board Viewers/MOTHERBOARDS/MSI/MSI MS-7817 Rev 1.2 (BDV)(.CAD).cad] (https://github.com/PauSilvestre/portafolio/blob/main/Board%20Viewers/MOTHERBOARDS/MSI/MSI%20MS-7817%20Rev%201.2%20(BDV)(.CAD).cad)

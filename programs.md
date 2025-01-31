@@ -7,8 +7,7 @@ parent: Home
 
 ## Descarga de archivos
 
-Puedes descargar los archivos comprimidos aquí:
+Puedes descargar Board Viewer aquí:
 
-- [Archivo ZIP](downloads/archivo.zip)
-- [Archivo TAR.GZ](downloads/archivo.tar.gz)
+- [Archivo ZIP](portafolio/Programas/BoardViewer.zip)
 
